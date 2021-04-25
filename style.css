@@ -91,6 +91,11 @@ header {
      margin-top: 50px;
      margin-bottom: 100px;
  }
+.contents-item img {
+     width: 200px;
+     position: relative;
+     
+ }
  
  .animal {
     text-decoration: none;
